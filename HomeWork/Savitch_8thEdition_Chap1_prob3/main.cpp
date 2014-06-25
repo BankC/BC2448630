@@ -20,7 +20,7 @@ int main()
     cout << "Enter the number of peas in a pod:\n";
     cin  >> peas_per_pod;
     total_peas = number_of_pods / peas_per_pod;      //Calculation
-    //Run Failed (exit value1, total time:5s)
+    //Run Failed (exit value1, otal time:5s)
     cout << "If you have "<< number_of_pods << " pea pods\n";
     cout <<"and ";
     cout <<peas_per_pod << " peas in each pod, then\n"; 
