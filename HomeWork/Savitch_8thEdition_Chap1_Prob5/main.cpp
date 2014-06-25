@@ -28,7 +28,7 @@ int main()
     cout <<"you have ";
     cout << total_peas <<" peas in all the pods.\n"; //Conclusion of Calculation
     cout <<"And the sum of peas and the pods is " << total_peas_sum << endl;
-    cout <<"Good bye"<<endl;
+    cout <<"Good bye\n";
 //Exit
     return 0;
 }
