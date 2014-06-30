@@ -38,8 +38,7 @@ int main()
         Box = 1/CrMTn;
          cout << "There are " << CrMTn <<" Metric Ton of Cereal"<< endl;
         cout <<"So we need " << Box << " boxes of cereal to yield 1 Metric Tone.\n";
-        cout << "Would you like to continue?(y/n)\n";
-        cin >> RnAgn ;
+        
     }
     
    
